@@ -1,0 +1,5 @@
+# github.com/hugomods/icons v0.6.4
+# github.com/hugomods/icons/vendors/mdi v0.3.6
+# github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible
+# github.com/hugomods/icons/vendors/lucide v0.3.38
+# github.com/hugomods/lucide-icons v0.331.0
